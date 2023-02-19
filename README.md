@@ -62,5 +62,12 @@ Open browser in http://localhost:8120
 
 ### Demo
 
-![demo](./.doc/media/ChainSafeDemo.gif)
+- video: ![demo](./.doc/media/ChainSafeDemo.gif)
+- live demo: https://chainsafe.github.io/ChainSafe-Demo-WebGL/
+
+
+----
+
+[Original Repo and credits](https://github.com/ChainSafe/ChainSafe-Demo-WebGLProject-Files)
+
 
