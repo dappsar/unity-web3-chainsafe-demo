@@ -12,6 +12,9 @@ A simple demo to show a web3 game, developed with [chainSafe SDK for Unity](http
 
 ![app demo](./.doc/images/demo.png)
 
+![wallets](./.doc/images/wallets.png)
+
+
 ## Technology Stack & Tools
 
 - [Unity](https://unity.com/)
@@ -37,8 +40,7 @@ A simple demo to show a web3 game, developed with [chainSafe SDK for Unity](http
   - Build or Build and Run!.
 
 ## 3. Run with Docker
-
-### Run with Docker in Linux
+### Using Script
 
 Execute this command to build container:
 
@@ -50,21 +52,25 @@ Notes:
 
 Open browser in: http://localhost:8120
 
+### Using docker-compose
 
-### Run with Docker in Windows
-
-- You could build image in Windows with files inside _deploy-windows_ folder. 
-- Then, up container with this command:
+Execute this command to build and start container:
 
   `$ docker-compose up -d`
 
 Open browser in http://localhost:8120
-
 ### Demo
 
 - video: ![demo](./.doc/media/ChainSafeDemo.gif)
 - live demo: https://chainsafe.github.io/ChainSafe-Demo-WebGL/
 
+
+# References
+
+- [ChainSafe Web3 Unity SDK](https://docs.gaming.chainsafe.io/)
+- [Unity Engine + MetaMask Wallet](https://medium.com/coinmonks/unity-engine-metamask-wallet-6797d4699e45)
+- [Chainsafe Gaming SDK - Making Blockchain Games Plug & Play](https://www.youtube.com/watch?v=qa2TatYgvYs)
+- [Goerli Faucet](https://goerli-faucet.pk910.de/)
 
 ----
 
