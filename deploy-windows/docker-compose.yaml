@@ -1,8 +1,0 @@
-version: '3.8'
-services:
-  webgl:
-    container_name: web3-demo
-    image: web3-demo
-    build: .
-    ports:
-      - "8120:80"
