@@ -62,5 +62,5 @@ Open browser in http://localhost:8120
 
 ### Demo
 
-![demo](./doc/media/ChainSafeDemo.gif)
+![demo](./doc/images/ChainSafeDemo.gif)
 
