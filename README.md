@@ -40,8 +40,7 @@ A simple demo to show a web3 game, developed with [chainSafe SDK for Unity](http
   - Build or Build and Run!.
 
 ## 3. Run with Docker
-
-### Run with Docker in Linux
+### Using Script
 
 Execute this command to build container:
 
@@ -53,16 +52,13 @@ Notes:
 
 Open browser in: http://localhost:8120
 
+### Using docker-compose
 
-### Run with Docker in Windows
-
-- You could build image in Windows with files inside _deploy-windows_ folder. 
-- Then, up container with this command:
+Execute this command to build and start container:
 
   `$ docker-compose up -d`
 
 Open browser in http://localhost:8120
-
 ### Demo
 
 - video: ![demo](./.doc/media/ChainSafeDemo.gif)
