@@ -14,7 +14,7 @@ A simple demo to show a web3 game, developed with [chainSafe SDK for Unity](http
 
 ![wallets](./.doc/images/wallets.png)
 
-
+![demo](./.doc/media/ChainSafeDemo.gif)
 ## Technology Stack & Tools
 
 - [Unity](https://unity.com/)
